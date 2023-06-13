@@ -1,0 +1,35 @@
+@import './loader.css';
+
+body {
+  margin: 0;
+  padding: 20px;
+}
+
+.breed-select {
+  max-width: 200px;
+}
+
+.cat-info {
+  display: flex;
+  margin-top: 20px;
+}
+
+.cat-info img {
+  display: block;
+  width: 420px;
+  height: auto;
+  box-shadow: 0px 0px 20px -10px #5897fb;
+}
+
+.cat-info h2 {
+  margin: 0;
+}
+
+.desc-aside {
+  margin-left: 20px;
+  max-width: 500px;
+}
+
+.is-hidden {
+  display: none;
+}
